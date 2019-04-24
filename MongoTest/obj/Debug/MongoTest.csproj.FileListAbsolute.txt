@@ -1,0 +1,15 @@
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.csprojResolveAssemblyReference.cache
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.MainForm.resources
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.Properties.Resources.resources
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.csproj.GenerateResource.Cache
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoTest.exe
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoTest.pdb
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoDB.Bson.dll
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.dll
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoRepository.Net40.dll
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoDB.Bson.xml
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.xml
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoRepository.Net40.pdb
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.exe
+E:\temp\MongoTest\MongoTest\obj\Debug\MongoTest.pdb
+E:\temp\MongoTest\MongoTest\bin\Debug\MongoTest.exe.config
